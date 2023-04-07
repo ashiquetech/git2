@@ -1,0 +1,156 @@
+.first{
+    width: 100%;
+    height: 450px;
+    background-color: green;
+}
+.second{
+    width: 100%;
+    height: 450px;
+    background-color:white;
+
+}
+.third{
+    width: 100%;
+    height: 400px;
+    background-color: yellow;
+
+}
+.fourth{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    padding: 80px;
+}
+
+
+body{
+    margin: 0
+    ;
+}
+.left{
+    width: 45%;
+    background-color: black;
+    height: 450px;
+    float: left;
+    
+}
+
+
+.left3{
+    width: 50%;
+    background-color: black;
+    height: 400px;
+    float: left;
+}
+.left4{
+    width: 350px;
+    background-color: antiquewhite;
+    height: 400px;
+    float: left;
+}
+.right{
+    width: 55%;
+    background-color: black;
+    height: 450px;
+    float: right;
+    
+}
+
+.right3{
+    width: 50%;
+    background-color: aqua;
+    float: right;
+    height: 400px;
+}
+.right4{
+    width: 350px;
+    background-color: brown;
+    float: left;
+    height: 400px;
+}
+.robo{
+    height: 450px;
+    width: 100%;
+}
+.hand{
+    height: 350px;
+    width:380px;
+    padding-right: 70px;
+    float: right;
+    padding-top: 45px;
+}
+.head{
+    color: white;
+    font-size: 90px;
+    font-style: normal;
+    margin-top: 110px;
+    
+}
+.human{
+    float: left;
+    margin-top: 50pxpx;
+    margin-left: 60px;
+    color: black;
+}
+.para{
+    
+    width: 600px;
+    height: 300px;
+    background-color: white;
+    margin-top: 80px;
+    margin-left: 30px;
+    float: left;
+    
+}
+p{
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.rob{
+    width: 150px;
+    height: 170px;
+    float: left;
+    margin-top: 200px;
+}
+.robi{
+    width: 150px;
+    height: 170px;
+    float: right;
+    margin-top: 0;
+
+}
+h1{
+    color: white;
+    margin-left: 40px;
+    margin-top: 21px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+p{
+    color: white;
+    padding-left: 20px;
+}
+.insid{
+    width: 100%;
+    height: 179px;
+    background-color: black;
+}
+.huma{
+    color: black;
+}
+.btm{
+    width: 350px;
+    background-color: green;
+    height: 400px;
+    float: left;
+}
+.para2{
+    font-size: large;
+    color: black;
+    padding-top: 30px;
+    justify-content: center;
+    
+}
+
